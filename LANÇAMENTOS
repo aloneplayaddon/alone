@@ -9,3 +9,11 @@
 
 BY ALONEPLAY
 
+
+<item>
+<title>[B]VÍDEO DO GOOGLE DRIVE[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://cdn2.canais.ink/RCFServer2/ondemand/RTADFGA3.mp4?</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>

@@ -11,8 +11,9 @@ BY ALONEPLAY
 
 
 <item>
-<title>[B]VÍDEO DO GOOGLE DRIVE[/B]</title>
-https://drive.google.com/open?id=1nF3xCvmPWa_L_rsEKQ703SwSHBQ9GwNy<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://r5---sn-bg07dn6l.googlevideo.com/videoplayback?expire=1582507395&ei=A7VSXtPKG73bj-8P1t-90A4&ip=187.0.28.34&id=06c70a69500a42bd&itag=18&source=blogger&susc=bl&mime=video/mp4&dur=3746.934&lmt=1463656007981688&sparams=expire,ei,ip,id,itag,source,susc,mime,dur,lmt&sig=ADKhkGMwRQIgAIuzo6nR0SH0sDGRpBsOzmy-yNun9v50jnyBbVJpz0wCIQDo03XT71VnSeB2nQ7yq3mtq0rU3Zte9UeMbQVd2mhnlA%3D%3D&cpn=Ac231IrL-PHHUH2j&c=WEB_EMBEDDED_PLAYER&cver=20200221&redirect_counter=1&cm2rm=sn-ujoxucg-hj1e7e&fexp=23872990&req_id=4ef7bc6f190c36e2&cms_redirect=yes&mm=29&mn=sn-bg07dn6l&ms=rdu&mt=1582478497&mv=m&mvi=4&pl=22&lsparams=mm,mn,ms,mv,mvi,pl&lsig=AHylml4wRQIgcZzvDfiXZmlk4N-VutcsN5uRrhdUBcEZfo37vV9-F1ICIQCB40Tq5Gg4eGO47XHIJUHIyc6WXPH3dqCq7lvRyuYfVA%3D%3D?usp=drivesdk</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
 <fanart>FANART DO FILME</fanart>
 <info>TEXTO DE SINOPSE.</info>
 </item>

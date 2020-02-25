@@ -1,19 +1,28 @@
-<canais>
-<canal>
-<name> [B] [COLOR lime] ● [/ COLOR] [COLOR white] LANÇAMENTOS [/ COLOR] [/ B] </name>
-<thumbnail> https://ia601404.us.archive.org/10/items/series_20200220/FLMS.png </thumbnail>
-<externallink> CANAL LINK DE OUTRO MENU OU LISTA DE ITENS </externallink>
-<fanart> https://ia801509.us.archive.org/22/items/icon_20200218/fanart.jpg </fanart>
-<info> portugalkodi.com </info>
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]LANÇAMENTOS[/COLOR][/B]</name>
+<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
+<externallink>https://drive.google.com/file/d/1Jey2VbISg5fOx2n6zvm7QTD9aMYsDFdb/view</externallink>
+<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
+<info>portugalkodi.com</info>
 </channel>
 
 BY ALONEPLAY
 
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Movies[/COLOR][/B]</name>
+<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
+<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
+<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
+<info>portugalkodi.com</info>
+</channel>
 
-<item>
-<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
-<link>plugin:https://r6---sn-bg07dnsy.c.drive.google.com/videoplayback?expire=1582509469&ei=XfVSXu6kLceP8gTw86jYBA&ip=187.0.28.34&cp=QVNNVEZfWFRUSlhOOnFCb2licFoyU2NMeUYwUHdhWjYzWFBOcEhzR2RtVlJDcHNYREp3ZkFZNEU&id=7928c3a8537b25de&itag=18&source=webdrive&requiressl=yes&mm=30&mn=sn-bg07dnsy&ms=nxu&mv=u&mvi=5&pl=22&ttl=transient&susc=dr&driveid=10qKhAFxp12n6wYyArgkIESROLebRFUh8&app=explorer&mime=video/mp4&dur=6133.016&lmt=1549588647935068&mt=1582494814&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,dur,lmt&sig=ADKhkGMwRAIgQVOQkh3TzI0DHxapEW5VpMcFEtuAQKtrtKVI3fgGWlECIFLM4YAA7PCYr-KWbORmC-TdkCe2-DF4aoyox3SpZMPY&lsparams=mm,mn,ms,mv,mvi,pl&lsig=ABSNjpQwRQIhAPxA5hkdK8cRE925C58B_hwZRDS43LNW4Je0KjFLqCfCAiAhfpCS1KpK2O2O7Dr26hU6vJgcxBMEznmpOjnP0J6b9w==&cpn=GWFgaHdj9tIceIRA&c=WEB_EMBEDDED_PLAYER&cver=20200221</externallink>
-<thumbnail>THUMBNAIL DO FILME</thumbnail>
-<fanart>FANART DO FILME</fanart>
-<info>TEXTO DE SINOPSE.</info>
-</item>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Youtube[/COLOR][/B]</name>
+<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
+<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
+<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
+<info>portugalkodi.com</info>
+</channel>
+
+</channels>

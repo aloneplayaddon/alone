@@ -1,34 +1,3 @@
-<channels>
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]LANÇAMENTOS/name>
-<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
-<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
-<info>portugalkodi.com</info>
-</channel>
-
-
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]Movies[/COLOR][/B]</name>
-<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
-<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
-<info>portugalkodi.com</info>
-</channel>
-
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]Youtube[/COLOR][/B]</name>
-<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
-<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
-<info>portugalkodi.com</info>
-</channel>
-
-</channels>
-
-BY ALONE
-
-
 <item>
 <title>[B]VÍDEO DO GOOGLE DRIVE[/B]</title>
 <link>plugin:https://drive.google.com/file/d/1Jey2VbISg5fOx2n6zvm7QTD9aMYsDFdb/view</link>
@@ -44,6 +13,3 @@ BY ALONE
 <fanart>FANART DO FILME</fanart>
 <info>TEXTO DE SINOPSE.</info>
 </item>
-
-
-

@@ -1,13 +1,12 @@
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]LANÇAMENTOS[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]LANÇAMENTOS/name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://drive.google.com/file/d/1Jey2VbISg5fOx2n6zvm7QTD9aMYsDFdb/view</externallink>
+<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 <info>portugalkodi.com</info>
 </channel>
 
-BY ALONEPLAY
 
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Movies[/COLOR][/B]</name>
@@ -26,3 +25,25 @@ BY ALONEPLAY
 </channel>
 
 </channels>
+
+BY ALONE
+
+
+<item>
+<title>[B]VÍDEO DO GOOGLE DRIVE[/B]</title>
+<link>plugin:https://drive.google.com/file/d/1Jey2VbISg5fOx2n6zvm7QTD9aMYsDFdb/view</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINK DO FILME?usp=drivesdk</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+
+

@@ -1,6 +1,6 @@
 <item>
 <title>[B]VÍDEO DO GOOGLE DRIVE[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ooo96Bl9ebvpoTgDXe1flpw30sVWrHdy/view?usp=sharing?usp=drivesdk</link>
+<link>plugin:https://drive.google.com/file/d/1bFyRrXyOi6imvxaktFtR0K0UXL4bGg70/view</link>
 <thumbnail>THUMBNAIL DO FILME</thumbnail>
 <fanart>FANART DO FILME</fanart>
 <info>TEXTO DE SINOPSE.</info>
@@ -8,7 +8,7 @@
 
 <item>
 <title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
-<link>plugin:https://drive.google.com/file/d/1Jey2VbISg5fOx2n6zvm7QTD9aMYsDFdb/view</link>
+<link>plugin:https://drive.google.com/file/d/1bFyRrXyOi6imvxaktFtR0K0UXL4bGg70/view</link>
 <thumbnail>THUMBNAIL DO FILME</thumbnail>
 <fanart>FANART DO FILME</fanart>
 <info>TEXTO DE SINOPSE.</info>

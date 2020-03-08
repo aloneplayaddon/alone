@@ -1,45 +1,7 @@
-
-<canais>
-<canal>
-<name> [B] [COLOR lime] ● [/ COLOR] [COLOR white] LANÇAMENTOS [/ COLOR] [/ B] </name>
-<thumbnail> https://ia601404.us.archive.org/10/items/series_20200220/FLMS.png </thumbnail>
-<externallink>https://raw.githubusercontent.com/aloneplayaddon/alone/master/LAN%C3%87AMENTOS</externallink>
-<fanart> https://ia801509.us.archive.org/22/items/icon_20200218/fanart.jpg </fanart>
-<info> portugalkodi.com </info>
-</channel>
-
-<canais>
-<canal>
-<name> [B] [COLOR lime] ● [/ COLOR] [COLOR white] NACIONAIS [/ COLOR] [/ B] </name>
-<thumbnail> https://ia601404.us.archive.org/10/items/series_20200220/FLMS.png </thumbnail>
-<externallink> CANAL LINK DE OUTRO MENU OU LISTA DE ITENS </externallink>
-<fanart> https://ia801509.us.archive.org/22/items/icon_20200218/fanart.jpg </fanart>
-<info> portugalkodi.com </info>
-</channel>
-
-<canais>
-<canal>
-<name> [B] [COLOR lime] ● [/ COLOR] [COLOR white] COMÉDIA [/ COLOR] [/ B] </name>
-<thumbnail> https://ia601404.us.archive.org/10/items/series_20200220/FLMS.png </thumbnail>
-<externallink> CANAL LINK DE OUTRO MENU OU LISTA DE ITENS </externallink>
-<fanart> https://ia801509.us.archive.org/22/items/icon_20200218/fanart.jpg </fanart>
-<info> portugalkodi.com </info>
-</channel>
-
-<canais>
-<canal>
-<name> [B] [COLOR lime] ● [/ COLOR] [COLOR white] ROMANCE [/ COLOR] [/ B] </name>
-<thumbnail> https://ia601404.us.archive.org/10/items/series_20200220/FLMS.png </thumbnail>
-<externallink> CANAL LINK DE OUTRO MENU OU LISTA DE ITENS </externallink>
-<fanart> https://ia801509.us.archive.org/22/items/icon_20200218/fanart.jpg </fanart>
-<info> portugalkodi.com </info>
-</channel>
-
-<canais>
-<canal>
-<name> [B] [COLOR lime] ● [/ COLOR] [COLOR white] COLEÇÕES [/ COLOR] [/ B] </name>
-<thumbnail> https://ia601404.us.archive.org/10/items/series_20200220/FLMS.png </thumbnail>
-<externallink> CANAL LINK DE OUTRO MENU OU LISTA DE ITENS </externallink>
-<fanart> https://ia801509.us.archive.org/22/items/icon_20200218/fanart.jpg </fanart>
-<info> portugalkodi.com </info>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Movies[/COLOR][/B]</name>
+<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
+<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
+<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
+<info>portugalkodi.com</info>
 </channel>

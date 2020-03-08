@@ -1,0 +1,25 @@
+<canais>
+<canal>
+<name> [COLOR indigo] | [/ COLOR] [COLOR deeppink] | [/ COLOR] [COLOR em perigo] | [/ COLOR] [COLOR em branco] CANAIS ABERTOS [/ COLOR] [COLOR em perigo] | [/ COLOR] [ COLOR deeppink] | [/ COLOR] [COLOR indigo] | [/ COLOR] </name>
+<thumbnail>https://ia801506.us.archive.org/11/items/icon_20200308/icon.png </thumbnail>
+<externallink> https://</externallink>
+<fanart> https://ia801506.us.archive.org/11/items/icon_20200308/fanart.jpg </fanart >
+<info>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Filmes[/COLOR][/B]</name>
+<thumbnail>https://ia801404.us.archive.org/10/items/series_20200220/FLMS.png</thumbnail>
+<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
+<fanart>https://ia801501.us.archive.org/33/items/netflixbackground/Netflix-Background.jpg</fanart>
+<info>portugalkodi.com</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Youtube[/COLOR][/B]</name>
+<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
+<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
+<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
+<info>portugalkodi.com</info>
+</channel>
+
+</channels>
